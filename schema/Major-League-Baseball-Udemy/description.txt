@@ -1,0 +1,5 @@
+The schema consists of 4 files:
+Players.csv : Contains info about player stats: Names, IDs, Date of Birth, Debut Date, Last Date
+Salaries.csv : Contains info about which player played for which team in a particular year
+school_details.csv : Contains details about school names and location
+schools.csv : Contains details about which player is associated to which school, and in what year.
