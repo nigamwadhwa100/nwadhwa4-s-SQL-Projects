@@ -58,9 +58,7 @@ This project leverages **SQL** within the **Google BigQuery environment** and **
 ### 📊 Dashboards
 <img width="1830" height="1412" alt="image" src="https://github.com/user-attachments/assets/503cec6e-6225-440b-a77b-9be6ab493dbe" />
 
-Team Expenditure and Player Career Analysis
-
-<img width="1280" height="908" alt="image" src="https://github.com/user-attachments/assets/1e23f1ed-f8fa-47e4-999c-358595313b88" />
+<img width="1271" height="691" alt="image" src="https://github.com/user-attachments/assets/5af71469-3d70-4276-8c47-40d274e88ea3" />
 
 ---
 
