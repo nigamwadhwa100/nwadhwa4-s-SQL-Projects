@@ -23,6 +23,12 @@ This project leverages **SQL** within the **Google BigQuery environment** and **
 
 ---
 
+### Data Model View
+
+<img width="1250" height="957" alt="image" src="https://github.com/user-attachments/assets/776d1a1a-a468-4989-b789-91a549433cbd" />
+
+---
+
 ### 🧠 Key Analytical Goals
 1. Demonstrate analytical capabilities of Google Cloud Platform to store, connect and analyze data. 
 2. Clean and structure player data from multiple sources and analyze to find key insights.
