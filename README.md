@@ -59,8 +59,6 @@ This project leverages **SQL** within the **Google BigQuery environment** and **
 
 [View my Tableau Dashboard](https://public.tableau.com/app/profile/nigam.wadhwa/viz/MLBAnalyticsDashboard)
 
-<img width="1830" height="1412" alt="image" src="https://github.com/user-attachments/assets/503cec6e-6225-440b-a77b-9be6ab493dbe" />
-
 <img width="1412" height="633" alt="image" src="https://github.com/user-attachments/assets/de1537a7-28c3-49f1-9cec-91cee0a895c4" />
 
 <img width="1271" height="691" alt="image" src="https://github.com/user-attachments/assets/5af71469-3d70-4276-8c47-40d274e88ea3" />
