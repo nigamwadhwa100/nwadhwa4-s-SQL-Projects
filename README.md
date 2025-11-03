@@ -7,6 +7,11 @@ Analyze MLB player career stats, salaries, origins, and trends using **BigQuery*
 
 ---
 
+### Description
+This project leverages **SQL** within the **Google BigQuery environment** and **Tableau** for visualization to analyze MLB player career data, salaries, and origins. The analysis focuses on identifying which schools have consistently produced professional players over the decades, examining how team spending patterns relate to player types, performance, and career longevity. Using advanced SQL queries, the project explores key trends in player development, salary distributions, and team composition. The findings are then visualized through interactive Tableau dashboards, enabling intuitive exploration and data-driven storytelling for deeper insights into the dynamics of Major League Baseball. 
+
+---
+
 ### 🧩 Tech Stack
 - **Data Source:** MLB Players dataset (Udemy)
 - **Data Storage Environment:** Google Cloud Storage
