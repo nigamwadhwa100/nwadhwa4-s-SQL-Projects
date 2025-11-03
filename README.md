@@ -66,8 +66,9 @@ Team Expenditure and Player Career Analysis
 - Schools like University of Southern California, Arizona State University, and Stanford University have consistently produced the most players across the years
 - Top 20%ile teams have an minimum average annual spend of $2.5M with the maximum spend crossing $5M
 - Average debut age for a player is 24 years, average retriement age is 29 years, and average career length is ~5 years
-- Only 26 out of 18,589 players started and ended their careers on the same team and played for over a decade 
-- Players hieghts and weights have consistently gone up over the years with the biggest jump in the decades of 1930 & 1940
+- Only 26 out of 18,589 players started and ended their careers on the same team and played for over a decade
+- Over 50% of the batters on most teams prefer to bat right handed
+- Players heights and weights have consistently gone up over the years with the biggest jump in the decades of 1930 & 1940
 
 ---
 
