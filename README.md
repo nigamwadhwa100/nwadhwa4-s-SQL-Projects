@@ -85,7 +85,7 @@ Team Expenditure and Player Career Analysis
 ---
 
 ### Potential Improvements
-- Analyzing percentage of throws
+- Analyzing percentage of throw styles
 - Deeper career level analytics - do long careers mean higher payband for players across years
 - Salary growth per team for players over the years
 
