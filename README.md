@@ -1,7 +1,7 @@
 # nwadhwa4-s-SQL-Projects
 This repository contains different Business Analytics and Visualization Projects Nigam has created.
 
-Project 1:  ⚾ Major League Baseball SQL Analytics Project
+Project 1:  ⚾ Major League Baseball Player Career Analytics Project
 
 ### 🎯 Objective
 Analyze MLB player career stats, salaries, origins, and trends using **BigQuery** and visualize insights in **Tableau**.
