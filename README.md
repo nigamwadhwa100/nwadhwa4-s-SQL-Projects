@@ -51,7 +51,7 @@ This project leverages **SQL** within the **Google BigQuery environment** and **
 
 ### Data Model View
 
-<img width="1250" height="957" alt="image" src="https://github.com/user-attachments/assets/776d1a1a-a468-4989-b789-91a549433cbd" />
+<img width="655" height="498" alt="image" src="https://github.com/user-attachments/assets/7b9cea12-88d2-4e98-86dd-54f792f4c515" />
 
 ---
 
