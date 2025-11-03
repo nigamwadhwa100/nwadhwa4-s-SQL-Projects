@@ -66,7 +66,7 @@ Team Expenditure and Player Career Analysis
 
 ---
 
-### 🔍 Key Insights ( We'll think about this later)
+### 🔍 Key Insights 
 - Number of schools producing players has gone up signficantly over the years  
 - Schools like University of Southern California, Arizona State University, and Stanford University have consistently produced the most players across the years
 - Top 20%ile teams have an minimum average annual spend of $2.5M with the maximum spend crossing $5M
