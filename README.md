@@ -57,7 +57,9 @@ This project leverages **SQL** within the **Google BigQuery environment** and **
 
 ### 📊 Dashboards 
 
-[Link]([https://your-link-here.com](https://public.tableau.com/app/profile/nigam.wadhwa/viz/MajorLeagueBaseballProject_17618655689800/))
+[Link][(https://public.tableau.com/app/profile/nigam.wadhwa/viz/MajorLeagueBaseballProject_17618655689800/)]
+
+[View my Tableau Dashboard](https://public.tableau.com/app/profile/nigam.wadhwa/viz/MLBAnalyticsDashboard)
 
 https://public.tableau.com/app/profile/nigam.wadhwa/viz/MajorLeagueBaseballProject_17618655689800/
 
