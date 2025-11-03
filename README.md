@@ -1,7 +1,6 @@
-# nwadhwa4-s-SQL-Projects
-This repository contains different Business Analytics and Visualization Projects Nigam has created.
+# MLB-player-career-analysis
 
-Project 1:  ⚾ Major League Baseball Player Career Analytics Project
+Title :  ⚾ Major League Baseball Player Career Analytics Project
 
 ### 🎯 Objective
 Analyze MLB player career stats, salaries, origins, and trends using **BigQuery** and visualize insights in **Tableau**.
@@ -10,6 +9,7 @@ Analyze MLB player career stats, salaries, origins, and trends using **BigQuery*
 
 ### 🧩 Tech Stack
 - **Data Source:** MLB Players dataset (Udemy)
+- **Data Storage Environment:** Google Cloud Storage
 - **Database:** Google BigQuery
 - **Language:** SQL
 - **Visualization:** Tableau Public
@@ -43,9 +43,12 @@ Analyze MLB player career stats, salaries, origins, and trends using **BigQuery*
 
 ---
 
-### 📊 Dashboard
-**[View the Tableau Dashboard →](https://public.tableau.com/profile/your-link)**  
-*(Interactive visualization showcasing age trends, team insights, and key player stats.)*
+### 📊 Dashboards
+<img width="1830" height="1412" alt="image" src="https://github.com/user-attachments/assets/503cec6e-6225-440b-a77b-9be6ab493dbe" />
+
+Team Expenditure and Player Career Analysis
+
+<img width="1280" height="908" alt="image" src="https://github.com/user-attachments/assets/1e23f1ed-f8fa-47e4-999c-358595313b88" />
 
 ---
 
@@ -53,17 +56,18 @@ Analyze MLB player career stats, salaries, origins, and trends using **BigQuery*
 | Folder | Description |
 |---------|-------------|
 | `queries/` | All BigQuery SQL scripts used for data cleaning and analysis |
-| `dashboard/` | Tableau dashboard images and supporting markdown |
-| `summary/` | Insight summaries and findings |
-| `datasets/` | Data dictionary or schema overview |
+| `results.md/` | Tableau dashboard images|
+| `schema/` | Data dictionary or schema overview |
 
 ---
 
 ### 🔍 Key Insights ( We'll think about this later)
-- Average player age: 28.6 years  
-- 70% of players earn below median team salary despite similar batting averages  
-- Veterans (>30 years) show 15% higher RBI consistency  
-- Top 10 HR hitters span across 6 different teams → balanced league spread
+- Number of schools producing players has gone up signficantly over the years  
+- Schools like University of Southern California, Arizona State University, and Stanford University have consistently produced the most players across the years
+- Top 20%ile teams have an minimum average annual spend of $2.5M with the maximum spend crossing $5M
+- Average debut age for a player is 24 years, average retriement age is 29 years, and average career length is ~5 years
+- Only 26 out of 18,589 players started and ended their careers on the same team and played for over a decade 
+- Players hieghts and weights have consistently gone up over the years with the biggest jump in the decades of 1930 & 1940
 
 ---
 
