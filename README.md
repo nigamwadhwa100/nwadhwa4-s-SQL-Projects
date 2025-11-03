@@ -82,6 +82,12 @@ Team Expenditure and Player Career Analysis
 - Over 50% of the batters on most teams prefer to bat right handed
 - Players heights and weights have consistently gone up over the years with the biggest jump in the decades of 1930 & 1940
 
+---
+
+### Potential Improvements
+- Analyzing percentage of throws
+- Deeper career level analytics - do long careers mean higher payband for players across years
+- Salary growth per team for players over the years
 
 ---
 
