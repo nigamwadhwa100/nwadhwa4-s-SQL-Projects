@@ -1,8 +1,8 @@
 # MLB-player-career-analysis
 
-Title :  ⚾ Major League Baseball Player Career Analytics Project
+Title :  Major League Baseball Player Career Analytics Project
 
-### 🎯 Objective
+### Objective
 Analyze MLB player career stats, salaries, origins, and trends using **BigQuery** and visualize insights in **Tableau**.
 
 This is an exploratory project to demonstrate end-to-end analytics capabilities, from querying large MLB datasets in SQL to building interactive Tableau dashboards that reveal patterns in player performance and team dynamics.
@@ -13,7 +13,7 @@ This project leverages **SQL** within the **Google BigQuery environment** and **
 
 ---
 
-### 🧩 Tech Stack
+### Tech Stack
 - **Data Source:** MLB Players dataset (Udemy)
 - **Data Storage Environment:** Google Cloud Storage
 - **Database:** Google BigQuery
@@ -23,7 +23,7 @@ This project leverages **SQL** within the **Google BigQuery environment** and **
 
 ---
 
-### 🧠 Key Analytical Goals
+### Key Analytical Goals
 1. Demonstrate analytical capabilities of Google Cloud Platform to store, connect and analyze data. 
 2. Clean and structure player data from multiple sources and analyze to find key insights.
 
@@ -55,7 +55,7 @@ This project leverages **SQL** within the **Google BigQuery environment** and **
 
 ---
 
-### 📊 Dashboards 
+### Dashboards 
 
 [View my Tableau Dashboard](https://public.tableau.com/app/profile/nigam.wadhwa/viz/MLBAnalyticsDashboard)
 
@@ -65,7 +65,7 @@ This project leverages **SQL** within the **Google BigQuery environment** and **
 
 ---
 
-### 📁 Project Structure
+### Project Structure
 | Folder | Description |
 |---------|-------------|
 | `queries/` | All BigQuery SQL scripts used for data cleaning and analysis |
@@ -74,7 +74,7 @@ This project leverages **SQL** within the **Google BigQuery environment** and **
 
 ---
 
-### 🔍 Key Insights 
+### Key Insights 
 - Number of schools producing players has gone up signficantly over the years  
 - Schools like University of Southern California, Arizona State University, and Stanford University have consistently produced the most players across the years
 - Top 20%ile teams have an minimum average annual spend of $2.5M with the maximum spend crossing $5M
@@ -92,7 +92,7 @@ This project leverages **SQL** within the **Google BigQuery environment** and **
 
 ---
 
-### 🧑‍💻 Author
+### Author
 **Nigam Wadhwa**  
 📧 nigam.wadhwa@gatech.edu  
 🔗 [LinkedIn](https://linkedin.com/in/nigam-wadhwa)
