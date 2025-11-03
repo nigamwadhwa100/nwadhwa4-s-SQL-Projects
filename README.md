@@ -5,7 +5,8 @@ Title :  Major League Baseball Player Career Analytics Project
 ### Objective
 Analyze MLB player career stats, salaries, origins, and trends using **BigQuery** and visualize insights in **Tableau**.
 
-This is an exploratory project to demonstrate end-to-end analytics capabilities, from querying large MLB datasets in SQL to building interactive Tableau dashboards that reveal patterns in player performance and team dynamics.
+**This is an exploratory project to demonstrate end-to-end analytics capabilities, from querying large MLB datasets in SQL to building interactive Tableau dashboards that reveal patterns in player performance and team dynamics.**
+
 ---
 
 ### Description
