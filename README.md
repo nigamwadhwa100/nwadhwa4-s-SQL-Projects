@@ -1,6 +1,4 @@
-# MLB-player-career-analysis
-
-Title :  Major League Baseball Player Career Analytics Project
+# MLB player career analysis project
 
 ### Objective
 Analyze MLB player career stats, salaries, origins, and trends using **BigQuery** and visualize insights in **Tableau**.
